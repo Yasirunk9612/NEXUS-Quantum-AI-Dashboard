@@ -14,7 +14,7 @@ If you find this project helpful, consider buying me a coffee! Your support help
 - **Repository**: [payment](https://github.com/Yasirunk9612/payment)
 
 
-![Dashboard Preview](./public/dashboard-preview.png)
+![Dashboard Preview](./public/dashboard-previes.png)
 
 ## ✨ Features
 
