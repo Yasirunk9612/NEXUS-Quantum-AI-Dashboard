@@ -11,7 +11,6 @@ If you find this project helpful, consider buying me a coffee! Your support help
 ## 📞 Contact
 
 - **GitHub**: [@Yasirunk9612](https://github.com/Yasirunk9612)
-- **Repository**: [payment](https://github.com/Yasirunk9612/payment)
 
 
 ![Dashboard Preview](./public/dashboard-previes.png)
