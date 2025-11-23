@@ -2,6 +2,18 @@
 
 A cutting-edge, futuristic dashboard built with Next.js, featuring quantum-inspired design, AI-powered analytics, and fully responsive mobile-first architecture.
 
+## ☕ Support the Project
+
+If you find this project helpful, consider buying me a coffee! Your support helps me create more awesome open-source projects.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasirunisae)
+
+## 📞 Contact
+
+- **GitHub**: [@Yasirunk9612](https://github.com/Yasirunk9612)
+- **Repository**: [payment](https://github.com/Yasirunk9612/payment)
+
+
 ![Dashboard Preview](./public/dashboard-preview.png)
 
 ## ✨ Features
@@ -139,16 +151,7 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ☕ Support the Project
 
-If you find this project helpful, consider buying me a coffee! Your support helps me create more awesome open-source projects.
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yasirunisal)
-
-## 📞 Contact
-
-- **GitHub**: [@Yasirunk9612](https://github.com/Yasirunk9612)
-- **Repository**: [payment](https://github.com/Yasirunk9612/payment)
 
 ## 🙏 Acknowledgments
 
